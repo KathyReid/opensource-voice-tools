@@ -15,7 +15,7 @@ This repo is a listing of known open source voice tools, structured by where tho
 | Website | Tool name | License | Description |
 |---------|-----------|---------|-------------|
 |[openslr.org](https://openslr.org)|Open Speech Language Resources|N/A          |Run by @danpovey, who is also a key maintainer of the Kaldi-ASR speech to text tool             |Provides a place to host open speech datasets, corpora and so on.
-|         |           |         |             |
+| [kaldi-asr.org](https://kaldi-asr.org)        |Kaldi Automatic Speech Recognition toolkit.           |Apache 2         |One of the first open source speech recognition toolkits. Academic reference is: `Povey, D., Ghoshal, A., Boulianne, G., Burget, L., Glembek, O., Goel, N., ... & Silovsky, J. (2011). The Kaldi speech recognition toolkit. In IEEE 2011 workshop on automatic speech recognition and understanding (No. CONF). IEEE Signal Processing Society.`             |
 |         |           |         |             |
 
 ## Intent parsing 
