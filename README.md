@@ -24,6 +24,10 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 ## Text to speech 
 
+| Website | Tool name | License | Description |
+|---------|-----------|---------|-------------|
+|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020             |
+
 ## Voice assistant wrappers 
 
 ## Other tools 
