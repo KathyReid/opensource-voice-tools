@@ -32,6 +32,9 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 ## Other tools 
 
+* [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
+
+
 ## Glossary 
 
 There are a lot of terms and acronyms in open source voice technology. This section provides explanations for each of them. 
