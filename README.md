@@ -8,6 +8,9 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 ## Transcription 
 
+* Duca, Daniela. “Disrupting Transcription – How Automation Is Transforming a Foundational Research Method.” Impact of Social Sciences (blog), September 17, 2019. https://blogs.lse.ac.uk/impactofsocialsciences/2019/09/17/disrupting-transcription-how-technology-is-transforming-a-foundational-research-method/.
+
+
 ## Wake words 
 
 ## Speech to text 
