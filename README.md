@@ -54,3 +54,5 @@ This repo is a listing of known open source voice tools, structured by where tho
 There are a lot of terms and acronyms in open source voice technology. This section provides explanations for each of them. 
 
 * `LVCSR`: Large vocabulary continuous speech recognition. Used in speech recognition tools to denote that a) the vocabulary on which the recognizer works has not been restricted or constrained - for example if it is deployed on embedded or low-powered hardware which cannot handle the memory or compute requirements of a large vocabulary and b) the recognizer works _continuously_, in contrast to a Wake Word or Keyword spotter which cedes control to the STT once a Wake Word is detected. 
+
+* `Cognitive arbitration`: The process a voice assistant uses to understand what services and skills are available to it, depending on its _context_ - such as being online or offline. 
