@@ -29,9 +29,20 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 | Website | Tool name | License | Description |
 |---------|-----------|---------|-------------|
-|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020             |
+|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020           
+
+## Chatbots and Conversational UI tools 
+
+| Website | Tool name | License | Description |
+|---------|-----------|---------|-------------|
+|[Mindmeld by Cisco](https://github.com/cisco/mindmeld)|.|Apache2         | The MindMeld Conversational AI platform is among the most advanced AI platforms for building production-quality conversational applications. It is a Python-based machine learning framework which encompasses all of the algorithms and utilities required for this purpose. Evolved over several years of building and deploying dozens of the most advanced conversational experiences achievable, MindMeld is optimized for building advanced conversational assistants which demonstrate deep understanding of a particular use case or domain while providing highly useful and versatile conversational experiences. The academic reference for this tool is:
+
+> Raghuvanshi, A., Carroll, L. and Raghunathan, K., 2018, November. Developing Production-Level Conversational Interfaces with Shallow Semantic Parsing. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (pp. 157-162)
+| 
 
 ## Voice assistant wrappers 
+
+
 
 ## Other tools 
 
