@@ -48,6 +48,8 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 * [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
 
+* [Berlin Database of Emotional Speech](http://emodb.bilderbar.info/download/) - A tagged corpus (in German/Deutsche) of speech tagged with emotions. 
+
 
 ## Glossary 
 
