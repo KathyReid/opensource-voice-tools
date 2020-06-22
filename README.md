@@ -55,6 +55,12 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 There are a lot of terms and acronyms in open source voice technology. This section provides explanations for each of them. 
 
+* `Cognitive arbitration`: The process a voice assistant uses to understand what services and skills are available to it, depending on its _context_ - such as being online or offline. 
+
+* `CRF`: [Conditional random field](https://en.wikipedia.org/wiki/Conditional_random_field). A statistical modelling method which can take into account context. Used in some neural-network based intent-parsing and semantic extraction software. 
+
+* `LSTM`: [long short-term memory](https://en.wikipedia.org/wiki/Long_short-term_memory). Used within recurrent neural networks to help process _sequences_ of data, such as audio or speech. In order to know what is likely to come _next_, LSTM records what came _previously_. 
+
 * `LVCSR`: Large vocabulary continuous speech recognition. Used in speech recognition tools to denote that a) the vocabulary on which the recognizer works has not been restricted or constrained - for example if it is deployed on embedded or low-powered hardware which cannot handle the memory or compute requirements of a large vocabulary and b) the recognizer works _continuously_, in contrast to a Wake Word or Keyword spotter which cedes control to the STT once a Wake Word is detected. 
 
-* `Cognitive arbitration`: The process a voice assistant uses to understand what services and skills are available to it, depending on its _context_ - such as being online or offline. 
+
