@@ -29,7 +29,12 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 | Website | Tool name | License | Description |
 |---------|-----------|---------|-------------|
-|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020. [Academic paper is avaialble here](https://arxiv.org/pdf/2005.05957.pdf). Citation is `Valle, R., Shih, K., Prenger, R., & Catanzaro, B. (2020). Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis. arXiv preprint arXiv:2005.05957.`           
+|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020. [Academic paper is avaialble here](https://arxiv.org/pdf/2005.05957.pdf). Citation is `Valle, R., Shih, K., Prenger, R., & Catanzaro, B. (2020). Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis. arXiv preprint arXiv:2005.05957.`     
+
+* Mwiti, Derrick. “A 2019 Guide to Speech Synthesis with Deep Learning.” Medium, June 23, 2020. https://heartbeat.fritz.ai/a-2019-guide-to-speech-synthesis-with-deep-learning-630afcafb9dd.
+
+^ This is a great article that explains the differences in the _evolutions_ or _generations_ of text to speech - from _concatenative_ to _statistical parametric_ to _generative_. More modern TTS approaches like Tacotron and WaveNet are _generative_ approaches. 
+
 
 ## Chatbots and Conversational UI tools 
 
