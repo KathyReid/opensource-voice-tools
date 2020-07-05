@@ -29,7 +29,7 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 | Website | Tool name | License | Description |
 |---------|-----------|---------|-------------|
-|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020           
+|[Flowtron by Nvidia](https://nv-adlr.github.io/Flowtron)|A Tacotron-based speech synthsis tool which can be tweaked for pitch and prosody, setting it apart from other Tacotron-based TTS implementations|Apache2         |First released at the GTC 2020 Conference in May 2020. [Academic paper is avaialble here](https://arxiv.org/pdf/2005.05957.pdf). Citation is `Valle, R., Shih, K., Prenger, R., & Catanzaro, B. (2020). Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis. arXiv preprint arXiv:2005.05957.`           
 
 ## Chatbots and Conversational UI tools 
 
