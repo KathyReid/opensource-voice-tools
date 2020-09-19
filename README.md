@@ -47,11 +47,15 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 ## Voice assistant wrappers 
 
+## Bias in voice assistants and NLP 
+
+* [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
+
+* [Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (Technology) is Power: A Critical Survey of" Bias" in NLP. arXiv preprint arXiv:2005.14050.] https://arxiv.org/pdf/2005.14050.pdf
+
 
 
 ## Other tools 
-
-* [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
 
 * [Berlin Database of Emotional Speech](http://emodb.bilderbar.info/download/) - A tagged corpus (in German/Deutsche) of speech tagged with emotions. 
 
