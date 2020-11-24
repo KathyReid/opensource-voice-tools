@@ -53,6 +53,9 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 * [Blodgett, S. L., Barocas, S., Daumé III, H., & Wallach, H. (2020). Language (Technology) is Power: A Critical Survey of" Bias" in NLP. arXiv preprint arXiv:2005.14050.] https://arxiv.org/pdf/2005.14050.pdf
 
+## Speaker recognition 
+
+* [ALIZE Open source toolkit for speaker recognition](https://github.com/ALIZE-Speaker-Recognition) - A cross-platform, open source speaker recognition toolkit from [Laboratoire Informatique d’Avignon, France](https://alize.univ-avignon.fr/). 
 
 
 ## Other tools 
