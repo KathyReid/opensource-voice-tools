@@ -47,7 +47,15 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 ## Voice assistant wrappers 
 
-## Bias in voice assistants and NLP 
+* [Mycroft.AI](https://mycroft.ai) - an open source, layered voice assistant that works on a range of Linux-compatible hardware, such as x86 or ARM devices such as Raspberry Pi. Supported by a strong community of open source developers. 
+
+* [OVAL / Genie project at Stanford](https://oval.cs.stanford.edu/) - Funded by the [Alfred P Sloan Foundation](https://sloan.org/) and by a NIST grant, Stanford's OVAL project aims to provide an open source alternative to commercial voice assistants. The project is currently in its infancy and is attempting to build an open source community. 
+
+## Natural language processing (NLP)
+
+* [Python Natural Language Toolkit NLTK](http://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an [active discussion forum](https://groups.google.com/g/nltk-users?pli=1).
+
+## Bias in voice assistants and NLP
 
 * [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
 
