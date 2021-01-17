@@ -66,9 +66,10 @@ This repo is a listing of known open source voice tools, structured by where tho
 * [ALIZE Open source toolkit for speaker recognition](https://github.com/ALIZE-Speaker-Recognition) - A cross-platform, open source speaker recognition toolkit from [Laboratoire Informatique d’Avignon, France](https://alize.univ-avignon.fr/). 
 
 
-## Other tools 
+## Voice and language corpora 
 
 * [Berlin Database of Emotional Speech](http://emodb.bilderbar.info/download/) - A tagged corpus (in German/Deutsche) of speech tagged with emotions. 
+* [The Pile](https://pile.eleuther.ai) - The Pile is a 825 GiB diverse, open source language modelling data set that consists of 22 smaller, high-quality datasets combined together. 
 
 
 ## Glossary 
