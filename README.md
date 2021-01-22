@@ -55,6 +55,8 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 * [Python Natural Language Toolkit NLTK](http://www.nltk.org/) - NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an [active discussion forum](https://groups.google.com/g/nltk-users?pli=1).
 
+* [ECCO explainab](https://www.eccox.io/) - ECCO is a Python library that provides explainability for NLP using interactive visualisations. 
+
 ## Bias in voice assistants and NLP
 
 * [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
