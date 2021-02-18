@@ -67,6 +67,11 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 * [ALIZE Open source toolkit for speaker recognition](https://github.com/ALIZE-Speaker-Recognition) - A cross-platform, open source speaker recognition toolkit from [Laboratoire Informatique d’Avignon, France](https://alize.univ-avignon.fr/). 
 
+## Forced aligners 
+
+_Forced aligners help to align audio recordings with orthographic transcription_ 
+
+* [aeneas](https://github.com/readbeyond/aeneas) | [Docs](www.readbeyond.it/aeneas/) is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment). 
 
 ## Voice and language corpora 
 
