@@ -57,6 +57,8 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 * [ECCO explainab](https://www.eccox.io/) - ECCO is a Python library that provides explainability for NLP using interactive visualisations. 
 
+* [Detext](https://engineering.linkedin.com/blog/2020/open-sourcing-detext) [source code](https://github.com/linkedin/detext) DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks. It leverages semantic matching using deep neural networks to understand member intents in search and recommender systems. As a general NLP framework, currently DeText can be applied to many tasks, including search & recommendation ranking, multi-class classification and query understanding tasks. Published by the AI team at LinkedIn.  
+
 ## Bias in voice assistants and NLP
 
 * [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
