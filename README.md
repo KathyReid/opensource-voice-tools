@@ -59,6 +59,8 @@ This repo is a listing of known open source voice tools, structured by where tho
 
 * [Detext](https://engineering.linkedin.com/blog/2020/open-sourcing-detext) [source code](https://github.com/linkedin/detext) DeText is a Deep Text understanding framework for NLP related ranking, classification, and language generation tasks. It leverages semantic matching using deep neural networks to understand member intents in search and recommender systems. As a general NLP framework, currently DeText can be applied to many tasks, including search & recommendation ranking, multi-class classification and query understanding tasks. Published by the AI team at LinkedIn.  
 
+* [pglex](https://github.com/rsprouse/pglex) - First presented at the [ICLDC 7 conference](http://ling.lll.hawaii.edu/sites/icldc/) in 2021, pglex is a 'pretty good' lexical service designed to facilitate the construction of dictionary websites and other applications that incorporate lexical data. With pglex, researchers can provide lexical entries in JSON format to an instance of the pglex API and get 'pretty good' search results without requiring language-specific configurations. Built on ElasticSearch.
+
 ## Bias in voice assistants and NLP
 
 * [Artie Bias Corpus](https://github.com/artie-inc/artie-bias-corpus/) - A corpus and set of tools for detecting _demographic bias_ in ASR systems.
