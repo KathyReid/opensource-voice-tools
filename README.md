@@ -92,6 +92,10 @@ _Forced aligners help to align audio recordings with orthographic transcription_
 
 _There's also `BoostClean` from Columbia University but I can't find a code reference anywhere on the web.
 
+## Papers listings 
+
+* [@mutiann's Speech Rankings](https://github.com/mutiann/speech_rankings) - this site ranks academic papers by citations like [CSRankings]. Put together by user [@mutiann](https://github.com/mutiann). 
+
 ## Glossary
 
 There are a lot of terms and acronyms in open source voice technology. This section provides explanations for each of them.
