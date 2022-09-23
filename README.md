@@ -92,9 +92,13 @@ _Forced aligners help to align audio recordings with orthographic transcription_
 
 _There's also `BoostClean` from Columbia University but I can't find a code reference anywhere on the web.
 
-## Papers listings 
+## Machine translation
 
-* [@mutiann's Speech Rankings](https://github.com/mutiann/speech_rankings) - this site ranks academic papers by citations like [CSRankings]. Put together by user [@mutiann](https://github.com/mutiann). 
+* [No language left behind](https://ai.facebook.com/research/no-language-left-behind/) - Released by Meta, the NLLB project aims to make low-resource languages more accessible by providing a machine translation model which can translate between 200 languages. The model is evaluated using a human translated benchmark, [FLORES-200](https://github.com/facebookresearch/flores/), and perform 44% better than state of the art scores using [BLEU](https://en.wikipedia.org/wiki/BLEU). 
+
+## Papers listings
+
+* [@mutiann's Speech Rankings](https://github.com/mutiann/speech_rankings) - this site ranks academic papers by citations like [CSRankings]. Put together by user [@mutiann](https://github.com/mutiann).
 
 ## Glossary
 
